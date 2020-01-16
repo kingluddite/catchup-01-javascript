@@ -2,4 +2,12 @@
 //
 var num = 7;
 
-//add your conditional here
+// add your conditional here
+
+if (num > 10) {
+  console.log('High');
+} else if (num < 10) {
+  console.log('Low');
+} else {
+  console.log('Perfect');
+}
