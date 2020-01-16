@@ -1,5 +1,13 @@
-var metals = ['copper', 'silver', 'tin', 'gold', 'steel', 'aluminum', 'iron'];
+var nums = [2, 4, 6, 8, 10];
 
-for (var i = 0; i < metals.lenth; i = i + 2) {
-  console.log(metals[i]);
-}
+//use a loop to increment each element by 1
+
+//use a loop to print each element in the updated array
+
+/* Output should be: 
+    3
+    5
+    7
+    9
+    11
+*/
