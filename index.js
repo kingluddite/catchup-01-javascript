@@ -1,5 +1,3 @@
-// Using the code below, print "brownie" and "cherries".
-
 var groceryList = {
   produce: {
     fruits: ['bananas', 'cherries', 'blueberries'],
@@ -8,5 +6,5 @@ var groceryList = {
   desserts: ['ice cream', 'brownie'],
 };
 
-//print brownie
-//print cherries
+console.log(groceryList.desserts[1]);
+console.log(groceryList.produce.fruits[1]);
