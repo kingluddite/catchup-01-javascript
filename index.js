@@ -1,10 +1,8 @@
-var groceryList = {
-  produce: {
-    fruits: ['bananas', 'cherries', 'blueberries'],
-    vegetables: ['turnip', 'carrot', 'spinach'],
-  },
-  desserts: ['ice cream', 'brownie'],
-};
+var metals = ['copper', 'silver', 'tin', 'gold', 'steel', 'aluminum', 'iron'];
 
-console.log(groceryList.desserts[1]);
-console.log(groceryList.produce.fruits[1]);
+/* print the following:
+    copper
+    tin
+    steel
+    iron
+*/
