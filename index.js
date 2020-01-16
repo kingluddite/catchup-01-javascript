@@ -1,9 +1,5 @@
-var nums = [2, 4, 6, 8, 10];
+// Using the code provided and conditionals, print "High" if the provided number is over 10, "Low" if the number is under 10, and "Perfect" if the number is exactly 10.
+//
+var num = 7;
 
-for (var i = 0; i < nums.length; i++) {
-  nums[i] = nums[i] + 1;
-}
-
-for (var i = 0; i < nums.length; i++) {
-  console.log(nums[i]);
-}
+//add your conditional here
