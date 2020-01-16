@@ -1,15 +1,12 @@
-var fruits = ['banana', 'pear', 'apple', 'cherry', 'peach'];
+// Using the code below, print "brownie" and "cherries".
 
-//print apple
-console.log(fruits[2]);
-
-var favFoods = {
-  vegetable: 'brussel sprouts',
-  meat: 'tofu',
-  fruit: 'peach',
-  legume: 'peanut',
-  grain: 'millet',
+var groceryList = {
+  produce: {
+    fruits: ['bananas', 'cherries', 'blueberries'],
+    vegetables: ['turnip', 'carrot', 'spinach'],
+  },
+  desserts: ['ice cream', 'brownie'],
 };
 
-// print peanut
-console.log(favFoods.legume);
+//print brownie
+//print cherries
