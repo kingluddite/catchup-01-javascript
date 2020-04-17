@@ -21,12 +21,14 @@ console.log(friends[0]);
 console.log('The length of the friends array is ' + friends.length);
 
 // last element in an array
-console.log('The last element in the friends array is ' + friends[friends.length - 1]);
+console.log(
+  'The last element in the friends array is ' + friends[friends.length - 1]
+);
 
 // object
 var angela = {
   name: 'Angela',
   age: 32,
-  profession: 'Artist';
-}
+  profession: 'Artist',
+};
 console.log(angela.profession);
