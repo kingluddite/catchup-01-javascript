@@ -1,4 +1,9 @@
 # Catchup #1: JavaScript
+## Summary
+Review of Essential JavaScript
+
+## Slideshow
+* View the [slideshow presentation here](https://js-catchup.netlify.app/1)
 
 ## Instructions
 ### Clone to your computer
