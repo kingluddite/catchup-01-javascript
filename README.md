@@ -27,6 +27,7 @@ Review of Essential JavaScript
 
 ```
 $ git checkout master
+$ git checkout 01-basic
 $ git checkout 02-activity-01-start
 $ git checkout 03-activity-01-solution
 $ git checkout 04-activity-02-start
